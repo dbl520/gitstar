@@ -5,7 +5,7 @@ from requests.auth import HTTPBasicAuth
 NAME = "dianbaer"
 PASSWORD = "dianbaer111"
 
-GITNAME = "232365732@qq.com"
+GITNAME = "xp892124@sina.com"
 GITPASSWORD = "xp1986124A"
 AUTH = HTTPBasicAuth(GITNAME, GITPASSWORD)
 

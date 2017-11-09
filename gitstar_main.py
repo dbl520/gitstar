@@ -7,7 +7,7 @@ class Gitstar():
     def __init__(self, url=""):
         self.NAME = "dianbaer"
         self.PASSWORD = "dianbaer111"
-        self.GITNAME = "232365732@qq.com"
+        self.GITNAME = "xp892124@sina.com"
         self.GITPASSWORD = "xp1986124A"
 
     def loginGitStar(self):
